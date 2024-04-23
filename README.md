@@ -32,21 +32,21 @@ source .bash_profile
 cd /home/dmdba/tmp/
 ./DMInstall.bin -i
 ```
-请选择安装语言 [1]:1
+请选择安装语言 [1]:```1```
 
-是否输入Key文件路径? (Y/y:是 N/n:否) [Y/y]:n
+是否输入Key文件路径? (Y/y:是 N/n:否) [Y/y]:```n```
 
-是否设置时区? (Y/y:是 N/n:否) [Y/y]:y
+是否设置时区? (Y/y:是 N/n:否) [Y/y]:```y```
 
-请选择时区 [21]:21
+请选择时区 [21]:```21```
 
-请选择安装类型的数字序号 [1 典型安装]:1
+请选择安装类型的数字序号 [1 典型安装]:```1```
 
-请选择安装目录 [/home/dmdba/dmdbms]:/data/dm8
+请选择安装目录 [/home/dmdba/dmdbms]:```/data/dm8```
 
-是否确认安装路径(/data/dm8)? (Y/y:是 N/n:否)  [Y/y]:y
+是否确认安装路径(/data/dm8)? (Y/y:是 N/n:否)  [Y/y]:```y```
 
-是否确认安装? (Y/y:是 N/n:否):y
+是否确认安装? (Y/y:是 N/n:否):```y```
 
 请以root系统用户执行命令:
 /data/dm8/script/root/root_installer.sh
